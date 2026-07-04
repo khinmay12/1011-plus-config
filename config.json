@@ -1,4 +1,6 @@
 {
-  "endpoint": "https://sgp.cloud.appwrite.io/v1",
-  "project_id": "6a45dbf00009be557a33"
+  "active_backend": "appwrite",
+  "appwrite_endpoint": "https://sgp.cloud.appwrite.io/v1",
+  "appwrite_project_id": "6a45dbf00009be557a32",
+  "vps_endpoint": "https://api.mrk1011k.com/v1"
 }
