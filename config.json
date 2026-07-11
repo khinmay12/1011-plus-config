@@ -2,6 +2,6 @@
   "active_backend": "appwrite",
   "appwrite_endpoint": "https://sgp.cloud.appwrite.io/v1",
   "appwrite_project_id": "6a511f2c0028fad1b2ea",
-  "appwrite_gatekeeper_endpoint": "https://1011-plus-client-gatekeeper.sgp.appwrite.run",
+  "appwrite_gatekeeper_endpoint": "https://6a511f2c0028fad1b2ea.appwrite.network",
   "vps_endpoint": "https://api.mrk1011k.com/v1"
 }
